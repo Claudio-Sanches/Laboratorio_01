@@ -35,4 +35,8 @@ Acrescentei área definida com borda, à tela de cadastro, utilizando o Form do 
 
 Os testes foram realizados e o arquio Json está sendo atualizado, embora ainda se faz necessário o tratamento do campo numérico e a informação da imagem do produto. 
 
+## Agradecimento
+
+Ao Henrique Eduardo de Souza, agradeço pelos ensinamentos.
+
 ⌨️ By [Claudio Buzzolini Sanches](https://gist.github.com/Claudio-Sanches) 😊
