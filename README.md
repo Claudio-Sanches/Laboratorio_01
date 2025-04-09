@@ -2,7 +2,7 @@
 
 Nesse desafio é proposto a replicação do processo de armazenamento e uma personalização ao mesmo. 
 
-Esse laboratório realiza a gravação de dados de produtos em ambiente Cloud, mas embora eu ainda não tenha conta, já foi pensadadesenvolvida a gravação contingencial em arquivo Json, para posterior atualização do banco de dados.
+Esse laboratório realiza a gravação de dados de produtos em ambiente Cloud, mas embora eu ainda não tenha conta, já foi havia sido desenvolvida a gravação contingencial em arquivo Json, para posterior atualização do banco de dados.
 
 ## 🚀 Começando
 
